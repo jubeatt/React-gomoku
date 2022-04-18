@@ -2,6 +2,7 @@
 
 ## 這是什麼？
 
+連結：https://jubeatt.github.io/React-gomoku/
 
 這是用 React 製作的五子棋小遊戲，功能有：
 
